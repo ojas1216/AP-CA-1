@@ -2,10 +2,12 @@ using System;
 
 public class Order
 {
+    public int OrderNo { get; set; }
     public string OrderDetails { get; set; }
     public int Quantity { get; set; }
     public double Bill { get; set; }
-    public int OrderNo { get; set; }
+
+    public Order() { }
 
     public Order(int orderNo, string details, int qty)
     {
