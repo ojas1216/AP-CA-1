@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "O:\\ADvance programmin\\20088640\\Task2\\Task2.csproj",
+      "projectUniqueName": "O:\\ADvance programmin\\AP-CA-1\\20088640\\Task2\\Task2.csproj",
       "projectName": "Task2",
-      "projectPath": "O:\\ADvance programmin\\20088640\\Task2\\Task2.csproj",
+      "projectPath": "O:\\ADvance programmin\\AP-CA-1\\20088640\\Task2\\Task2.csproj",
       "packagesPath": "C:\\Users\\Mario\\.nuget\\packages\\",
-      "outputPath": "O:\\ADvance programmin\\20088640\\Task2\\obj\\",
+      "outputPath": "O:\\ADvance programmin\\AP-CA-1\\20088640\\Task2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mario\\AppData\\Roaming\\NuGet\\NuGet.Config"

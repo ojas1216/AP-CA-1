@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "O:\\ADvance programmin\\20088640\\Task1\\Task1.csproj": {}
+    "O:\\ADvance programmin\\AP-CA-1\\20088640\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "O:\\ADvance programmin\\20088640\\Task1\\Task1.csproj": {
+    "O:\\ADvance programmin\\AP-CA-1\\20088640\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "O:\\ADvance programmin\\20088640\\Task1\\Task1.csproj",
+        "projectUniqueName": "O:\\ADvance programmin\\AP-CA-1\\20088640\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "O:\\ADvance programmin\\20088640\\Task1\\Task1.csproj",
+        "projectPath": "O:\\ADvance programmin\\AP-CA-1\\20088640\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Mario\\.nuget\\packages\\",
-        "outputPath": "O:\\ADvance programmin\\20088640\\Task1\\obj\\",
+        "outputPath": "O:\\ADvance programmin\\AP-CA-1\\20088640\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mario\\AppData\\Roaming\\NuGet\\NuGet.Config"
